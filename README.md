@@ -1,0 +1,1 @@
+HTML file uploaded has example data that parallels data that would be used in current team scenarios. Visualizes data for different parts of the department to make actionable decisions on what key verticals to focus on next and what indutries we already cover.
